@@ -1,7 +1,7 @@
 # 🚀 CareerPilot AI
 
 **CareerPilot AI** is a cutting-edge, Multi-Agent AI Career Intelligence System powered by Gemini 2.5 Flash, Streamlit, and Python. It transforms the job hunt by converting raw resumes into highly strategic, personalized career roadmaps through a coordinated network of specialized AI agents.
-
+ 
 ---
 
 ## ✨ Key Features
