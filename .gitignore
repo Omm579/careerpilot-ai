@@ -1,4 +1,13 @@
-# Ignore local environment variables
-.env
+# Python bytecode
 **/__pycache__/
 *.pyc
+*.pyo
+*.pyd
+
+# Environment variables 
+.env
+venv/
+env/
+
+# Streamlit specific logs/crash reports
+.streamlit/config.toml
