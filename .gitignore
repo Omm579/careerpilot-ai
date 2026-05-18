@@ -10,4 +10,4 @@ venv/
 env/
 
 # Streamlit specific logs/crash reports
-.streamlit/config.toml
+*.streamlit/config.toml
