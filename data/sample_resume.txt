@@ -1,0 +1,42 @@
+Rahul Sharma
+Frontend Developer
+
+Email: rahulsharma@gmail.com
+Phone: +91 9876543210
+Location: Bangalore, India
+
+SUMMARY
+Frontend Developer skilled in React, JavaScript, HTML, CSS, Git, and REST API integration. Built responsive web applications and portfolio projects with modern UI practices.
+
+SKILLS
+- React.js
+- JavaScript
+- HTML5
+- CSS3
+- Tailwind CSS
+- Git & GitHub
+- REST APIs
+
+PROJECTS
+
+Portfolio Website
+- Built a responsive portfolio website using React and Tailwind CSS.
+- Implemented reusable components and responsive layouts.
+
+Task Management App
+- Developed a MERN stack task manager with authentication and CRUD functionality.
+- Integrated MongoDB database and Express backend.
+
+EDUCATION
+Bachelor of Technology in Computer Science
+XYZ University
+2022 - 2026
+
+EXPERIENCE
+Frontend Developer Intern
+ABC Tech Solutions
+May 2025 - June 2025
+
+- Worked on responsive UI development.
+- Improved website performance and accessibility.
+- Collaborated with cross-functional teams.

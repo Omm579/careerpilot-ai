@@ -1,0 +1,73 @@
+===============================================================================
+ALEX MERCER
+New York, NY | (555) 019-2834 | alex.mercer.ai@email.com
+://linkedin.com | ://github.com | alexmercer.ai
+===============================================================================
+
+PROFESSIONAL SUMMARY
+--------------------
+Data-driven and research-oriented AI Engineer with 4 years of experience 
+designing, training, and deploying machine learning models and generative AI 
+solutions. Proficient in Python, PyTorch, and integrating large language models 
+(LLMs) into production architectures. Adept at optimizing model inference, 
+building scalable RAG pipelines, and collaborating with software teams to 
+translate complex AI research into high-impact enterprise applications.
+
+TECHNICAL SKILLS
+----------------
+* Languages:          Python, SQL, C++, Bash, TypeScript
+* AI & ML Frameworks: PyTorch, TensorFlow, Scikit-Learn, Hugging Face Transformers
+* Generative AI:      LLMs (GPT-4, Llama 3), LangChain, LlamaIndex, Prompt Eng.
+* Data & MLOps:       Pandas, NumPy, Docker, MLflow, Weights & Biases, AWS (SageMaker)
+* Databases & Vector: PostgreSQL, Pinecone, Milvus, Redis, MongoDB
+* Engineering Tools:  Git/GitHub, REST APIs, FastAPI, Linux, Agile/Scrum
+
+PROFESSIONAL EXPERIENCE
+-----------------------
+AI Engineer | Intelligent Systems Corp
+New York, NY (Hybrid) | October 2023 – Present
+* Engineered an enterprise-grade Retrieval-Augmented Generation (RAG) pipeline 
+  using LangChain and Pinecone, improving document retrieval accuracy by 40%.
+* Fine-tuned open-source LLMs (Llama 3, Mistral) for domain-specific tasks, 
+  reducing reliance on costly commercial APIs and cutting inference costs by 30%.
+* Built and deployed scalable REST APIs using FastAPI and Docker, handling 
+  over 50,000 daily AI model inference requests with sub-100ms latency.
+* Collaborated with data engineering to design automated data preprocessing and 
+  augmentation pipelines, accelerating model training cycles by 25%.
+
+Machine Learning Engineer | Apex Analytics
+Remote | July 2021 – October 2023
+* Designed and deployed predictive machine learning models using PyTorch and 
+  Scikit-Learn, increasing user retention forecast accuracy by 18%.
+* Managed the full MLOps lifecycle using MLflow, tracking metrics, managing 
+  model registries, and automating containerized deployments to AWS SageMaker.
+* Optimized deep learning model architectures via quantization and pruning, 
+  achieving a 2x speedup in CPU-bound production environments.
+* Cleansed, structured, and feature-engineered massive, unstructured datasets 
+  comprising over 10 million telemetry data points using Pandas and SQL.
+
+PROJECTS
+--------
+LegalMind AI Agent | Python, LangChain, PyTorch, Milvus, FastAPI
+://github.com/legalmind-ai
+* Developed a specialized AI assistant that parses complex legal PDFs and 
+  extracts operational liabilities using advanced semantic search chunks.
+* Implemented strict guardrails and evaluation metrics using Ragas to minimize 
+  hallucinations and ensure regulatory compliance.
+
+NeuroVision Defect Detector | Python, TensorFlow, OpenCV, Docker
+://github.com/neurovision-cv
+* Built a custom convolutional neural network (CNN) for real-time manufacturing 
+  defect detection using video stream processing.
+* Packed the full application into a lightweight Docker image optimized for 
+  edge-computing hardware devices.
+
+EDUCATION
+---------
+Bachelor of Science in Computer Science (AI Specialization)
+New York University, New York, NY | 2021
+
+CERTIFICATIONS
+--------------
+* DeepLearning.AI Deep Learning Specialization – 2022
+* AWS Certified Machine Learning – Specialty – 2023

@@ -1,0 +1,72 @@
+===============================================================================
+ALEX MERCER
+New York, NY | (555) 019-2834 | alex.mercer.dev@email.com
+://linkedin.com | ://github.com | alexmercer.dev
+===============================================================================
+
+PROFESSIONAL SUMMARY
+--------------------
+Detail-oriented and performance-driven Front End Developer with 4 years 
+of experience building responsive, user-centric web applications. Proficient 
+in JavaScript (ES6+), React, and modern CSS frameworks. Adept at translating 
+complex UI/UX designs into pixel-perfect, accessible code while optimizing web 
+performance and collaborating across cross-functional engineering teams.
+
+TECHNICAL SKILLS
+----------------
+* Languages:          JavaScript (ES6+), TypeScript, HTML5, CSS3, SQL
+* Frameworks/Libs:    React.js, Next.js, Redux Toolkit, Node.js, jQuery
+* UI & Styling:       Tailwind CSS, Bootstrap, Sass, Material UI
+* Tools & Testing:    Git/GitHub, Vite, Webpack, Jest, Cypress, npm
+* Concepts:           RESTful APIs, GraphQL, Responsive Design, Web Performance,
+                      Semantic HTML, Accessibility (WCAG), Agile/Scrum
+
+PROFESSIONAL EXPERIENCE
+-----------------------
+Senior Front End Developer | TechHive Solutions
+New York, NY (Hybrid) | October 2023 – Present
+* Spearheaded the migration of a legacy platform to React/Next.js, reducing 
+  initial page load times by 35% and improving mobile user engagement.
+* Collaborated closely with UI/UX designers to translate Figma design tokens 
+  into reusable, semantic component libraries using Tailwind CSS.
+* Integrated complex RESTful APIs and managed global application state using 
+  Redux, resulting in a 20% reduction in client-side data latency.
+* Mentored 3 junior developers on front-end best practices, code 
+  cleanliness, and code review workflows.
+
+Front End Developer | PixelCraft Studio
+Remote | July 2021 – October 2023
+* Developed and maintained responsive web interfaces using JavaScript and 
+  Bootstrap, ensuring seamless performance across cross-browser environments.
+* Optimized web assets, implemented lazy loading, and refactored code to boost 
+  Google Lighthouse performance scores from 70 to 92.
+* Automated repetitive team workflows using custom npm scripts, saving an 
+  estimated 5 hours of development time per week.
+* Debugged and resolved high-priority layout and state rendering defects, 
+  lowering post-release bug production by 15%.
+
+PROJECTS
+--------
+DevMarket E-Commerce | React.js, Redux Toolkit, Tailwind CSS, Stripe API
+://github.com/devmarket-app
+* Built a fully dynamic digital storefront featuring state-driven search 
+  filters, persistent shopping carts, and responsive product grids.
+* Implemented client-side data persistence via localStorage, ensuring seamless 
+  session handling and data retrieval.
+
+SkyWatch Weather App | TypeScript, React.js, Tailwind CSS, OpenWeather API
+://github.com/skywatch-weather
+* Engineered an interactive weather dashboard consuming live third-party REST 
+  API endpoints with complete error-handling protocols.
+* Wrapped custom conditional components to visually reflect dynamic JSON weather 
+  payloads based on geographic locations.
+
+EDUCATION
+---------
+Bachelor of Science in Computer Science
+New York University, New York, NY | 2021
+
+CERTIFICATIONS
+--------------
+* Meta Front-End Developer Professional Certificate – 2022
+* AWS Certified Cloud Practitioner – 2023

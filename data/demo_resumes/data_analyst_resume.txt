@@ -1,0 +1,73 @@
+===============================================================================
+ALEX MERCER
+New York, NY | (555) 019-2834 | alex.mercer.data@email.com
+://linkedin.com | ://github.com | alexmercer.data
+===============================================================================
+
+PROFESSIONAL SUMMARY
+--------------------
+Analytical and insight-driven Data Analyst with 4 years of experience 
+transforming raw, complex datasets into actionable business strategies. Expert 
+in writing advanced SQL queries, building automated ETL pipelines, and creating 
+dynamic dashboards that empower executive decision-making. Proven track record 
+of identifying operational inefficiencies, optimizing marketing spend, and 
+collaborating across departments to drive revenue growth.
+
+TECHNICAL SKILLS
+----------------
+* Languages:          SQL (PostgreSQL, MySQL, BigQuery), Python (Pandas, NumPy), R
+* BI & Visualization: Tableau, Power BI, Looker Studio, Excel (VLOOKUP, Pivots)
+* Data Infrastructure: Snowflake, AWS Redshift, dbt (Data Build Tool), Airflow
+* Analytics & Math:   Statistical Analysis, A/B Testing, Cohort Analysis, ROI
+* Web Analytics:      Google Analytics 4 (GA4), Mixpanel, Segment
+* Methodologies:      Agile/Scrum, Data Governance, Root Cause Analysis
+
+PROFESSIONAL EXPERIENCE
+-----------------------
+Senior Data Analyst | CoreMetrics Group
+New York, NY (Hybrid) | October 2023 – Present
+* Developed and automated interactive Tableau dashboards for executive leadership, 
+  tracking global KPIs and cutting manual reporting time by 15 hours per week.
+* Wrote complex SQL queries and window functions to analyze user behavior 
+  funnels, identifying a checkout bottleneck that raised conversion by 12%.
+* Spearheaded a data migration project utilizing dbt and Snowflake, cleaner 
+  structuring 50+ data models to establish a unified single source of truth.
+* Partnered with Product Managers to design and evaluate monthly A/B testing 
+  frameworks, optimizing marketing campaigns to boost total user engagement.
+
+Data Analyst | Vanguard Retail Corp
+Remote | July 2021 – October 2023
+* Maintained, audited, and optimized daily ETL pipelines using Python and SQL, 
+  ensuring 99% data integrity across inventory tracking systems.
+* Conducted deep-dive cohort analyses on historical customer purchase data, 
+  uncovering churn indicators that saved $80K in annual retention costs.
+* Designed dynamic Power BI dashboards to track supply chain metrics, helping 
+  logistics teams isolate shipping delays and reduce transit times by 8%.
+* Extracted and cleaned unstructured operational data from various API webhooks 
+  and legacy Excel spreadsheets using Python script automations.
+
+PROJECTS
+--------
+ChurnPredict Analytics Pipeline | Python, SQL, Tableau, PostgreSQL
+://github.com/churn-predict
+* Built an end-to-end user analytics pipeline that extracts SaaS subscription 
+  data, processes it via Python, and visualizes retention risk factors.
+* Created a Tableau dashboard highlighting critical warning signs for client success 
+  teams, successfully flagging 200+ high-risk customer accounts.
+
+E-Commerce Performance Monitor | Google BigQuery, SQL, Looker Studio
+://github.com/ecommerce-monitor
+* Designed a comprehensive digital marketing dashboard pulling from multi-channel 
+  ad spends to calculate live return on ad spend (ROAS).
+* Structured automated SQL scripts within BigQuery to aggregate daily web 
+  traffic, reducing query processing costs by 20%.
+
+EDUCATION
+---------
+Bachelor of Science in Statistics (Minor in Data Science)
+New York University, New York, NY | 2021
+
+CERTIFICATIONS
+--------------
+* Google Data Analytics Professional Certificate – 2021
+* Tableau Desktop Certified Associate – 2022
