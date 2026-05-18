@@ -2,7 +2,7 @@ import streamlit as st
 from google import genai
 import os
 import time
-import re
+import re 
 
 from dotenv import load_dotenv
 from utils.pdf_handler import extract_text_from_pdf
