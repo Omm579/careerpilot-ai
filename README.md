@@ -102,8 +102,8 @@ CareerPilot-AI/
 
 ### 1. Clone & Navigate
 ```bash
-git clone <your-repository-url>
-cd careerpilot_ai
+git clone https://github.com/Omm579/careerpilot-ai
+cd careerpilot-ai
 ```
 
 ### 2. Install Packages
